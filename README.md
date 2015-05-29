@@ -1,0 +1,2 @@
+# gozoop-assignment
+Slotmachine Assignment
