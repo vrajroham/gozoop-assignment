@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.slotMachine{
+	width: 32.333333%;
+	height: 100px;
+	padding: 0px;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+	/*margin: 0px 5px;*/
+	/*border: 5px solid #000;*/
+	background-color: #ffffff;
+}
+.machineResult{
+	color:#fff;
+	text-align:center;
+	font-weight: 900;
+}
+.noBorder{
+	border:none !important;
+	background: transparent !important;
+}
+.slotMachine .slot{
+	height:100px;
+	background-position-x: 100%;
+}
+
+.slot1{
+	background-image:url("../img/1.png");
+}
+.slot2{
+	background-image: url("../img/2.png");
+}
+.slot3{
+	background-image: url("../img/3.png");
+}
